@@ -1,4 +1,4 @@
-## Its All About the Start ! | Python Programming
+## Its All About the Start !
 
 %[https://youtu.be/djHo8HvWg8Q]
 
