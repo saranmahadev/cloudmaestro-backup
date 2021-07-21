@@ -94,7 +94,8 @@ mv = memoryview(bytes(5)) # Memoryview
 
 The  process of converting from one datatype to another datatype is called as **Type Conversion**. There are types of Conversion.
 
--> Implicit Conversion
+**-> Implicit Conversion**
+
 In this conversion, Python converts the datatype by itself.
 
 **Example:**
@@ -107,11 +108,11 @@ print(a+b)
 # 'a' is converted to float automatically and prints 33.2
 
 ```
--> Explicit Conversion
+**-> Explicit Conversion**
 
 In this conversion, user converts the datatype to another and performs the operation.
 
-Example:
+**Example:**
 ```
 a = 10 # int
 b = "20" # str
@@ -127,20 +128,20 @@ print( a + int(b))
 ## Python Input and Output:
 - **input()** gets input from the user
 
-Example:
+**Example:**
 ```
 a = input("Enter Whatever you like!")
 ```
 - **print()** prints output to the user
 
-Example:
+**Example:**
 ```
 print(a) # Whatever in 'a' is shown 
 ```
 ---
 
 ## Operators:
-Operators are nothing but special symbols that are used to perform arithmetic and logical operations.
+Operators are nothing but special symbols that are used to perform **arithmetic and logical operations**.
 
 Operators in grouped as:
 - Arithmetic operators,
@@ -153,7 +154,7 @@ Operators in grouped as:
 
 ---
 
-Conclusion:
+## Conclusion:
 Make sure to checkout the next blog for learning more.
 
 Wanna Support!
