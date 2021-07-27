@@ -26,7 +26,7 @@ I am installing **Linux Mint** on my test bench and using that to complete the f
 
 - Setup a Lamp Server
 
-I will setup a LAMP Server on AWS using aws-cli
+I will setup a LAMP Server on AWS
 
 - Deploy a NAS Server
 
