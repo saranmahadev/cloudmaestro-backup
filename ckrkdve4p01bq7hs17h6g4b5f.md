@@ -22,7 +22,7 @@ The Listed Projects are
 
 - Install Linux on a Computer
 
-I am installing **Linux Mint** on my test bench and using that to complete the following the projects.
+I am installing **Linux Mint** on my test bench.
 
 - Setup a Lamp Server
 
