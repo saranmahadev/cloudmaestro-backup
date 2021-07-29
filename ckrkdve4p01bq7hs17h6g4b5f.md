@@ -46,7 +46,7 @@ In Phase 2 - Learn some scripting and code, As I am already have plenty of exper
 
 #### 1. Product Inventory Project
 
-Using OOPS approach, I have to create an application to create an Product Inventory.
+I have to create an application to create an Product Inventory.
 
 ** Tech Stack: **
 1. Python(Flask) - For UI
