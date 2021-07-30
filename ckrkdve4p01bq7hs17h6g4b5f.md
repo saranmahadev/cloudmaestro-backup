@@ -42,7 +42,7 @@ I am using NextCloud and going to deploy my own cloud
 
 ![2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627288176259/uGy7FFrrW.png)
 
-In Phase 2 - Learn some scripting and code, As I am already have plenty of experience and PCAP Training in Python, I am jumping to the Projects. The Given Projects are
+In Phase 2 - Learn some scripting and code, As I am already have plenty of experience and PCAP Training in Python, I am jumping to the Projects. 
 
 #### 1. Product Inventory Project
 
@@ -53,17 +53,7 @@ I have to create an application to create an Product Inventory.
 2. MongoDB - For Storing
 3. Azure - For Hosting
 
-
-#### 2. Football Score Tracker
-
-I will create an Score Tracker app using this [API](https://www.api-football.com/). 
-
-**Tech Stack:**
-1. Python (Flask) - For UI
-2. API - https://www.api-football.com/
-
-
-#### 3. Create Your GitHub Profile 
+#### 2. Create Your GitHub Profile 
 I already have an GitHub Profile and I am editing it.
 
 ---
