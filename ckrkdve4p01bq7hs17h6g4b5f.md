@@ -65,7 +65,7 @@ I already have an GitHub Profile and I am editing it.
 In Phase 3 - Cloud Platform, I have AWS Fundamentals Specialization and I also learning for Cloud Practitioner and as you have guessed we are skipping to the Projects. The Given Projects are
 
 #### 1. Cloud Resume Challenge
-I already have my portfolio but the [blog](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) that states the work to be completed sounds fun and lets do it!
+I already have my portfolio but the [blog](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) that states the work to be completed and it sounds challenging and lets do it!
 
 
 #### 2. Azure Cloud Resume Challenge
