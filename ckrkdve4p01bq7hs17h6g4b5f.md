@@ -71,7 +71,7 @@ I already have my portfolio but the [blog](https://forrestbrazeal.com/2020/04/23
 #### 2. Azure Cloud Resume Challenge
 As I am doing the above project on AWS, lets try this on Azure. 
 
->Once we get to know the fundamentals of the Cloud, Every cloud provider looks the same and their name and some small technicalities change but under the hood everything is pretty much the same and costs may vary. So the Knowledge of all the Cloud would be nice but specialization is also important and I took AWS as my major specialization and have other cloud providers as a secondary knowledge.
+>Once we get to know the fundamentals of the Cloud, Every cloud provider looks the same and their name and some small technicalities change but under the hood everything is pretty much the same and costs may vary. 
 
 #### 3. 100 Days of Cloud
 
