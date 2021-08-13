@@ -70,7 +70,7 @@ In Phase 3 - Cloud Platform, I have AWS Fundamentals Specialization and I also l
 
 I love to automate stuff and I am creating a Automation script to deploy an Ubuntu VM in AWS.
 
-### 2. 100 Days of Cloud
+#### 2. 100 Days of Cloud
 As I skipped some projects, I am taking some work from [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) repo and going to do work in different cloud providers.
 
 #### 3. Creating Serverless Functions
