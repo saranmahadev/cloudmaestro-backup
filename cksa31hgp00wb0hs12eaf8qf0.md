@@ -1,4 +1,4 @@
-## Automated Deployment | Task - 7
+## Automated Deployment | Task - 6
 
 ## Introduction
 Took my time to get into this Phase, I had my semester lined up and busy with other work and finally got over all the other work and moving forward. In this task, I am using Terraform. 
