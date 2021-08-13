@@ -64,28 +64,21 @@ I already have an GitHub Profile and I am editing it.
 
 In Phase 3 - Cloud Platform, I have AWS Fundamentals Specialization and I also learning for Cloud Practitioner and as you have guessed we are skipping to the Projects. The Given Projects are
 
-#### 1. Cloud Resume Challenge
-I already have my portfolio but the [blog](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/) that states the work to be completed and it sounds challenging and lets do it!
+> I skipped some projects.. take a look [here](https://github.com/madebygps/self-taught-guide-to-cloud-computing/blob/main/phase3/README.md) for that projects
 
-
-#### 2. Azure Cloud Resume Challenge
-As I am doing the above project on AWS, lets try this on Azure. 
-
->Once we get to know the fundamentals of the Cloud, Every cloud provider looks the same and their name and some small technicalities change but under the hood everything is pretty much the same and costs may vary. 
-
-#### 3. 100 Days of Cloud
+#### 1. 100 Days of Cloud
 
 I am using this [template](https://github.com/100DaysOfCloud/100DaysOfCloud) and I am taking the 100 Days of Cloud.
 
-#### 4. Creating a Automated Script
+#### 2. Creating a Automated Script
 
 I love to automate stuff and I am creating a Automation script to deploy an Ubuntu VM in AWS.
 
-#### 5. Deploy a Ghost Blog
+#### 3. Deploy a Ghost Blog
 
 I already tried Ghost Blog and I do not like that, I already have the best Blog provider @[Hashnode](@hashnode) and I am skipping this part.
 
-#### 6. Creating Serverless Functions
+#### 4. Creating Serverless Functions
 
 I have the problem of automatic updating of Blogs in my portfolio, so I am going to create AWS Serverless function for that and also I am writing the problem statement work which states to write a function to email me very morning about weather and the VM's running. Also an HTTP Function that shows the resume details.
 
