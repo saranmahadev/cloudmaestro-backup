@@ -66,19 +66,14 @@ In Phase 3 - Cloud Platform, I have AWS Fundamentals Specialization and I also l
 
 > I skipped some projects.. take a look [here](https://github.com/madebygps/self-taught-guide-to-cloud-computing/blob/main/phase3/README.md) for that projects
 
-#### 1. 100 Days of Cloud
-
-I am using this [template](https://github.com/100DaysOfCloud/100DaysOfCloud) and I am taking the 100 Days of Cloud.
-
-#### 2. Creating a Automated Script
+#### 1. Creating a Automated Script
 
 I love to automate stuff and I am creating a Automation script to deploy an Ubuntu VM in AWS.
 
-#### 3. Deploy a Ghost Blog
+### 2. 100 Days of Cloud
+As I skipped some projects, I am taking some work from [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) repo and going to do work in different cloud providers.
 
-I already tried Ghost Blog and I do not like that, I already have the best Blog provider @[Hashnode](@hashnode) and I am skipping this part.
-
-#### 4. Creating Serverless Functions
+#### 3. Creating Serverless Functions
 
 I have the problem of automatic updating of Blogs in my portfolio, so I am going to create AWS Serverless function for that and also I am writing the problem statement work which states to write a function to email me very morning about weather and the VM's running. Also an HTTP Function that shows the resume details.
 
