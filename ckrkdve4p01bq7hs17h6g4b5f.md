@@ -70,12 +70,11 @@ In Phase 3 - Cloud Platform, I have AWS Fundamentals Specialization and I also l
 
 I love to automate stuff and I am creating a Automation script to deploy an Ubuntu VM in AWS.
 
-#### 2. 100 Days of Cloud
-As I skipped some projects, I am taking some work from [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) repo and going to do work in different cloud providers.
+#### 2. Deploy a Ghost Blog
+I am going to deploy an Ghost Blog for this project in Azure
 
-#### 3. Creating Serverless Functions
-
-I have the problem of automatic updating of Blogs in my portfolio, so I am going to create AWS Serverless function for that and also I am writing the problem statement work which states to write a function to email me very morning about weather and the VM's running. Also an HTTP Function that shows the resume details.
+#### 3. Create Serverless Function
+I am going to deploy a serverless function to send me about weather in the morning.
 
 ---
 
